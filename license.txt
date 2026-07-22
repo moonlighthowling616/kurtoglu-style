@@ -2,7 +2,7 @@
 
 This software end user license agreement (hereinafter “Agreement”) is made
 between you or, if you represent a legal entity, that legal entity (hereinafter
-“You”) and “dustin.medina”, the copyright holder and designer
+“You”) and “cerb.hellmutt, the copyright holder and designer
 (hereinafter “Font Designer”) of the font software named “Kurtoğlu
 Style” (hereinafter “Font Software”).
 
@@ -73,7 +73,7 @@ Attribution Notice”) comprising of:
 the name of the Font Designer or pseudonym, if applicable (“dustin.medina”);
 the title of the Font Software (“Kurtoğlu Style”); and
 to the extent reasonably practicable, the URI
-(https://fontstruct.com/fontstructions/show/2910811) from where the Font was
+() from where the Font was
 originally downloaded.
 
 The Attribution Notice may be implemented in any reasonable manner. For the
