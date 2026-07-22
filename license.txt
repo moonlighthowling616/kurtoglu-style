@@ -2,7 +2,7 @@
 
 This software end user license agreement (hereinafter “Agreement”) is made
 between you or, if you represent a legal entity, that legal entity (hereinafter
-“You”) and “cerb.hellmutt, the copyright holder and designer
+“You”) and “cerb.hellmutt", the copyright holder and designer
 (hereinafter “Font Designer”) of the font software named “Kurtoğlu
 Style” (hereinafter “Font Software”).
 
@@ -70,7 +70,7 @@ copyright notices for the Font Software and display, reasonable to the medium or
 means You are utilizing for Your Work, an attribution notice (hereinafter “The
 Attribution Notice”) comprising of:
 
-the name of the Font Designer or pseudonym, if applicable (“dustin.medina”);
+the name of the Font Designer or pseudonym, if applicable (“cerb.hellmutt");
 the title of the Font Software (“Kurtoğlu Style”); and
 to the extent reasonably practicable, the URI
 () from where the Font was
